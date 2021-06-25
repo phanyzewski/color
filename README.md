@@ -1,11 +1,14 @@
-clone the repo or run
+clone the repo or run!
+
+run with go get
 
 ```sh
 go get -u github.com/phanyzewski/color
-```
 
-to see the output run
+which color
+> $GOPATH/bin/color
 
-```sh
-go run ./
+> color
+this is a warning and this is error.
+this package rocks!
 ```
